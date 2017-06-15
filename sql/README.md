@@ -59,3 +59,4 @@ COPY consumer_complaints FROM '/Users/eddie/Documents/projects/aA/sql/ConsumerCo
 A message stating `COPY 65499` will be displayed if successful. The number is the number of rows successfully copied over. To further verify all rows are loaded, you can run another query with the statement `SELECT * FROM consumer_complaints;`. This should return all 65,499 rows in the `Data Output` window. From here on, further discussion are broken down into subtopics listed below.
 
 * [Basic of SQL](./subs/basic.md)
+* [Working with Data](./subs/data.md)
