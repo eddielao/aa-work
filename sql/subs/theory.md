@@ -38,4 +38,13 @@ __Foreign key__ is an attribute or set of attributes within one relation that ma
 
 ## Relational Database
 
-Per Wikipedia, relational database is a digital database whose organization is based on the relational model of data. 
+Per Wikipedia, relational database is a digital database whose organization is based on the relational model of data. It has to satisfy the following integrities.
+
+  1. Entity Integrity (primary key is unique and does not match the primary key of any other row in the table)
+  2. Domain Integrity (all data items in a column fall within a defined set of valid values)
+  3. Referential Integrity (A value in one table references an existing value in another table)
+  4. User-defined Integrity (also called business integrity which defines business rules, regulations, policies, and procedures)
+
+## Functional Dependency
+
+Per Wikipedia, a functional dependency is a constraint between two sets of attributes in a relation from a database. In other words, functional dependency is a constraint that describes the relationship between attributes in a relation.
