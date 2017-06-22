@@ -1,0 +1,5 @@
+/Users/eddie/Documents/projects/aa-work/c-sharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/eddie/Documents/projects/aa-work/c-sharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/eddie/Documents/projects/aa-work/c-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/eddie/Documents/projects/aa-work/c-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/eddie/Documents/projects/aa-work/c-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
