@@ -21,3 +21,28 @@ Here are the general steps for creating the famous "Hello World" program.
 To open an existing project, select `File` -> `Open`.
   * Navigate to project root directory
   * Select file with extension `.sin`
+
+```CSharp
+using System;
+
+namespace MtSac
+{
+    class MyProgram
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
+The `namespace` wraps around the `class` which wraps around the `method Main`.
+
+## Project Organization
+
+The starting structure depends on what template was used for the project.
+
+## .NET Framework
+
+The `.NETFramework` is a library of codes developed by Microsoft with many common functions already built for developers to use.
