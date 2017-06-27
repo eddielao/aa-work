@@ -1,0 +1,5 @@
+/Users/eddie/Documents/projects/aa-work/c-sharp/Student/Student/bin/Debug/Student.exe
+/Users/eddie/Documents/projects/aa-work/c-sharp/Student/Student/bin/Debug/Student.pdb
+/Users/eddie/Documents/projects/aa-work/c-sharp/Student/Student/obj/x86/Debug/Student.csproj.CoreCompileInputs.cache
+/Users/eddie/Documents/projects/aa-work/c-sharp/Student/Student/obj/x86/Debug/Student.exe
+/Users/eddie/Documents/projects/aa-work/c-sharp/Student/Student/obj/x86/Debug/Student.pdb

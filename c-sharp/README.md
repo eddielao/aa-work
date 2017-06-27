@@ -46,3 +46,10 @@ The starting structure depends on what template was used for the project.
 ## .NET Framework
 
 The `.NETFramework` is a library of codes developed by Microsoft with many common functions already built for developers to use.
+
+## Objectives
+
+The followings are some of the other basics of C#.
+
+* [Hello World]
+* [Creating Class]
