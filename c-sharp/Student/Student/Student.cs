@@ -3,6 +3,7 @@ namespace MtSac.CISP41
 {
     public class Student
     {
+        // Fields & Properties
         private String _FirstName;
 
         public String FirstName
@@ -49,6 +50,8 @@ namespace MtSac.CISP41
             set { Int32.TryParse(value, out _CompletedAssignments);}
         }
 
+        // Methods
+
         public Decimal GetAge()
         {
             DateTime Today = DateTime.Today;
@@ -79,6 +82,8 @@ namespace MtSac.CISP41
             return true;
         }
 
+        // Constructor
+
         public Student()
         {
             _FirstName = "";
@@ -89,4 +94,3 @@ namespace MtSac.CISP41
         }
     }
 }
-/

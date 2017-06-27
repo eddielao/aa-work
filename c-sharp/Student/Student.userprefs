@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{08324C69-2E3C-4BE2-AC06-FFF38849E1AC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Student/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student/Program.cs">
     <Files>
-      <File FileName="Student/Program.cs" Line="2" Column="1" />
-      <File FileName="Student/EmptyClass.cs" Line="2" Column="18" />
+      <File FileName="Student/Program.cs" Line="23" Column="14" />
+      <File FileName="Student/Student.cs" Line="12" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
