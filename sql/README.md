@@ -61,3 +61,4 @@ A message stating `COPY 65499` will be displayed if successful. The number is th
 * [Basic of SQL](./subs/basic.md)
 * [Working with Data](./subs/data.md)
 * [Fundamentals of Database Theory](./subs/theory.md)
+* [Joining Tables](./subs/join.md)
