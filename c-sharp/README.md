@@ -51,6 +51,6 @@ The `.NETFramework` is a library of codes developed by Microsoft with many commo
 
 The followings are some of the other basics of C#.
 
-* [Hello World]
+* [Hello World (the basics)](./HelloWorld/)
 * [Creating Class]
 * [String Memory Address]
