@@ -53,3 +53,4 @@ The followings are some of the other basics of C#.
 
 * [Hello World]
 * [Creating Class]
+* [String Memory Address]
